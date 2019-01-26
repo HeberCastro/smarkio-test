@@ -4,7 +4,7 @@ Desafio para o processo seletivo da empresa Smarkio
 Requer:
   - Node.js
   - npm
-  -MySQL
+  - MySQL
   
   Importe o banco de dados:
       -1. Restaure o banco de dados através do arquivo "comentary.sql"
