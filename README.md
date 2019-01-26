@@ -12,5 +12,5 @@ Requer:
   
   Como executar:
       -1. Acesse o diretório onde o codigo da aplicação esta via terminal e execute o comando "npm install";
-      -2. Assim que as dependências forem instaladas, execute o comando "npm start";
+      -2. Assim que as dependências forem instaladas, execute o comando "node app.js";
       -3. Acesse a aplicação via "localhost:{porta}" onde a porta é o valor informado no terminal logo após a mensagem "Servidor disponivel na porta:", sendo que padrão você irá acessar a aplicação pelo endereço "localhost:5000";
